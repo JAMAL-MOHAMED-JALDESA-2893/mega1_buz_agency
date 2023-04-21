@@ -36,4 +36,10 @@
     margin-bottom: 4rem;
     height: 20rem;
 }
+
+.banner-heading span{
+    font-family: 'Oswald', sans-serif;
+    font-size: 12rem;
+    font-weight: 400;
+}
 /* End of section 1 */
