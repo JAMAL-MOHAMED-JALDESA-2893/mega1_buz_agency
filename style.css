@@ -20,4 +20,9 @@
     height: 100vh;
     background: url(images/dark-bg.jpeg)no-repeat;background-size: cover;
 }
+
+.banner{
+    width: 100%;
+    position: absolute;
+}
 /* End of section 1 */
