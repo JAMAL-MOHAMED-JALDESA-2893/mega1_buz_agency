@@ -6,5 +6,18 @@
     outline: none;
     text-decoration: none;
     list-style-type: none;
+    font-family: 'Baloo Da 2', cursive;
+}
+
+:root{
+    font-size: 10px;
 }
 /* end of common styles */
+
+/* section 1 */
+.section-1{
+    width: 100%;
+    height: 100vh;
+    
+}
+/* End of section 1 */
