@@ -31,4 +31,9 @@
     transform: translateX(-50%);
     text-align: center;
 }
+
+.banner-heading{
+    margin-bottom: 4rem;
+    height: 20rem;
+}
 /* End of section 1 */
